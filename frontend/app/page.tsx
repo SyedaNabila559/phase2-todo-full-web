@@ -123,9 +123,9 @@ export default function HomePage() {
             {/* Social Icons */}
             <div className="flex gap-4">
               {[
-                { icon: Linkedin, href: "https://www.linkedin.com" },
-                { icon: Twitter, href: "https://twitter.com" },
-                { icon: Mail, href: "mailto:syeda@gmail.com" },
+                { icon: Linkedin, href: "https://www.linkedin.com/in/nabila-bannay-khan-a38b57313" },
+                { icon: Twitter, href: "https://x.com/SyedaNabila55?t=1-jVOtyKtjBiMEFPH4RhyA&s=08" },
+                { icon: Mail, href: "syedanabila33@gmail.com " },
               ].map(({ icon: Icon, href }, i) => (
                 <a
                   key={i}
